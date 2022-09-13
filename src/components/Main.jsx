@@ -5,7 +5,7 @@ import Show from '../pages/Show';
 import Basket from './Basket';
 
 function Main(props) {
-  const URL = 'https://blackeye-coffee-be.herokuapp.com/drinks/';
+  const URL = 'https://blackeyecoffeerv-backend.herokuapp.com/drinks';
   const { drinks, getDrinks, onAdd, onRemove, cartItems } = props;
 
   const createDrinks = async (drink) => {

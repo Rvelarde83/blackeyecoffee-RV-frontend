@@ -5,7 +5,7 @@ import { useState, useEffect } from 'react';
 
 function App() {
   const [drinks, setDrinks] = useState(null);
-  const URL = 'https://blackeye-coffee-be.herokuapp.com/drinks/';
+  const URL = 'https://blackeyecoffeerv-backend.herokuapp.com/drinks/';
 
   const getDrinks = async () => {
     const response = await fetch(URL);

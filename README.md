@@ -3,7 +3,7 @@
 Our e-commerce website allows users to purchase coffee and snacks. Inspired by the Netherlands, users will be able to add THC to any coffee. We will have a variety of snacks that are also THC friendly.
 
 ## Links
-- [Live Site](https://blackeye-coffee.netlify.app/)
+- [Live Site](https://stunning-druid-cdf196.netlify.app/)
 - [Backend Repo](https://github.com/benburgos/blackeye-coffee-backend)
 
 ## Libraries and dependencies:
